@@ -1,3 +1,3 @@
 # SharafHussainCS.github.io
 Personal Website
-https://sharafhussaincs.github.io/Website/
+https://sharafhussaincs.github.io/website/
